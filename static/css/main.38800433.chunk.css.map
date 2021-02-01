@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AAAA,KACE,iBACF,CAEA,UACE,WAAY,CACZ,UACF","file":"main.38800433.chunk.css","sourcesContent":[".App {\n  text-align: center;\n}\n\n.pin-logo {\n  height: 50px;\n  width: 30px;\n}\n"]}
