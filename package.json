@@ -2,7 +2,7 @@
   "name": "mevo-map",
   "version": "0.1.0",
   "private": true,
-  "homepage":"http://singhmannat.github.io/mevo-app",
+  "homepage": "https://singhmannat.github.io/mevo-app",
   "dependencies": {
     "@react-google-maps/api": "^2.1.1",
     "@testing-library/jest-dom": "^5.11.4",
@@ -39,5 +39,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^3.1.0"
   }
 }
