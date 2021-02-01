@@ -23,7 +23,7 @@ const App = () => {
           console.log(error);
         }
       )
-  }, [viewPort])
+  }, [vehicles])
 
   return (
     <div className="App">
